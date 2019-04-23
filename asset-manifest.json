@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/ASR-prototype/static/js/main.693e3332.chunk.js",
+    "main.js.map": "/ASR-prototype/static/js/main.693e3332.chunk.js.map",
+    "runtime~main.js": "/ASR-prototype/static/js/runtime~main.e0a6cf33.js",
+    "runtime~main.js.map": "/ASR-prototype/static/js/runtime~main.e0a6cf33.js.map",
+    "static/js/2.f24fee81.chunk.js": "/ASR-prototype/static/js/2.f24fee81.chunk.js",
+    "static/js/2.f24fee81.chunk.js.map": "/ASR-prototype/static/js/2.f24fee81.chunk.js.map",
+    "index.html": "/ASR-prototype/index.html",
+    "precache-manifest.2cbf0cff28c90f0c5d603d608dcf052d.js": "/ASR-prototype/precache-manifest.2cbf0cff28c90f0c5d603d608dcf052d.js",
+    "service-worker.js": "/ASR-prototype/service-worker.js",
+    "static/media/logo.png": "/ASR-prototype/static/media/logo.67310b77.png"
+  }
+}
