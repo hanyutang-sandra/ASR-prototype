@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/ASR-prototype/static/js/main.da70d310.chunk.js",
+    "main.js.map": "/ASR-prototype/static/js/main.da70d310.chunk.js.map",
+    "runtime~main.js": "/ASR-prototype/static/js/runtime~main.e0a6cf33.js",
+    "runtime~main.js.map": "/ASR-prototype/static/js/runtime~main.e0a6cf33.js.map",
+    "static/js/2.3050466b.chunk.js": "/ASR-prototype/static/js/2.3050466b.chunk.js",
+    "static/js/2.3050466b.chunk.js.map": "/ASR-prototype/static/js/2.3050466b.chunk.js.map",
+    "index.html": "/ASR-prototype/index.html",
+    "precache-manifest.3c2bead4411572385daf6ab2485cbb5f.js": "/ASR-prototype/precache-manifest.3c2bead4411572385daf6ab2485cbb5f.js",
+    "service-worker.js": "/ASR-prototype/service-worker.js",
+    "static/media/logo.png": "/ASR-prototype/static/media/logo.67310b77.png"
+  }
+}
