@@ -1,3 +1,10 @@
+#### This application is a prototype made for Team Otter capstone spring presentation.
+
+#### All other uses need to inform the developer in advance as this service is not free.
+
+#### Upload restrictions: wav, mp3, mp4, flac audio format Spanish recording. The transcription typically takes more than two minutes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
